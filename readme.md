@@ -1,5 +1,4 @@
-# cruBot 
-## by suckyomudd
+# cruBot ## by suckyomudd
 
 * SETUP
     1) git clone this project or download it.
