@@ -3,9 +3,9 @@
 ## SETUP
 1) git clone this project or download it.
 2) cd into the project
-3) run the following commands: 
-    `npm install`
-    `npm run dev`
+3) run the following commands:
+    npm install
+    npm run dev
 
 If this is the first time running the bot, the terminal will prompt
 you for your bot's token and server's guild id. This will create your
