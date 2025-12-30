@@ -9,6 +9,7 @@
   "description": "",
   "main": "main.ts",
   "devDependencies": {},
+  "type": "module",
   "scripts": {
     "dev": "tsx main.ts"
   },
